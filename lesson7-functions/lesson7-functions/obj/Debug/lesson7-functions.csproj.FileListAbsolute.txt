@@ -1,0 +1,7 @@
+C:\Users\LENOVO-1\source\repos\lesson7-functions\lesson7-functions\bin\Debug\lesson7-functions.exe.config
+C:\Users\LENOVO-1\source\repos\lesson7-functions\lesson7-functions\bin\Debug\lesson7-functions.exe
+C:\Users\LENOVO-1\source\repos\lesson7-functions\lesson7-functions\bin\Debug\lesson7-functions.pdb
+C:\Users\LENOVO-1\source\repos\lesson7-functions\lesson7-functions\obj\Debug\lesson7-functions.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO-1\source\repos\lesson7-functions\lesson7-functions\obj\Debug\lesson7-functions.exe
+C:\Users\LENOVO-1\source\repos\lesson7-functions\lesson7-functions\obj\Debug\lesson7-functions.pdb
+C:\Users\LENOVO-1\source\repos\lesson7-functions\lesson7-functions\obj\Debug\lesson7-functions.csprojAssemblyReference.cache

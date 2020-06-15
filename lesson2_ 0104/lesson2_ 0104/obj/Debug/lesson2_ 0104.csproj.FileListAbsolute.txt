@@ -1,0 +1,7 @@
+C:\Users\LENOVO-1\source\repos\lesson2_ 0104\lesson2_ 0104\bin\Debug\lesson2_ 0104.exe.config
+C:\Users\LENOVO-1\source\repos\lesson2_ 0104\lesson2_ 0104\bin\Debug\lesson2_ 0104.exe
+C:\Users\LENOVO-1\source\repos\lesson2_ 0104\lesson2_ 0104\bin\Debug\lesson2_ 0104.pdb
+C:\Users\LENOVO-1\source\repos\lesson2_ 0104\lesson2_ 0104\obj\Debug\lesson2_ 0104.csprojAssemblyReference.cache
+C:\Users\LENOVO-1\source\repos\lesson2_ 0104\lesson2_ 0104\obj\Debug\lesson2_ 0104.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO-1\source\repos\lesson2_ 0104\lesson2_ 0104\obj\Debug\lesson2_ 0104.exe
+C:\Users\LENOVO-1\source\repos\lesson2_ 0104\lesson2_ 0104\obj\Debug\lesson2_ 0104.pdb

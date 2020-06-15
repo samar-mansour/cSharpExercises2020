@@ -1,0 +1,7 @@
+C:\Users\LENOVO-1\source\repos\lesson8\lesson8\bin\Debug\lesson8.exe.config
+C:\Users\LENOVO-1\source\repos\lesson8\lesson8\bin\Debug\lesson8.exe
+C:\Users\LENOVO-1\source\repos\lesson8\lesson8\bin\Debug\lesson8.pdb
+C:\Users\LENOVO-1\source\repos\lesson8\lesson8\obj\Debug\lesson8.csprojAssemblyReference.cache
+C:\Users\LENOVO-1\source\repos\lesson8\lesson8\obj\Debug\lesson8.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO-1\source\repos\lesson8\lesson8\obj\Debug\lesson8.exe
+C:\Users\LENOVO-1\source\repos\lesson8\lesson8\obj\Debug\lesson8.pdb
